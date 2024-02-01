@@ -1,0 +1,3 @@
+git reset --hard commitid(previous commitid we have mention, after this commit all the recent commits and changes will be removed from everywhere)
+git reset --soft commitid(previous commitid we have to mention. after this commit all the recent commits will be removed and changes will be back to stagging area)
+git reset --mixed (all the changes present in stagging area will back to workspace)
